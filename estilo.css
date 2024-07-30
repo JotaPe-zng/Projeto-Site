@@ -1,0 +1,49 @@
+/* Todos os imports tem de ser colocados no inicio */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Oswald:wght@200..700&display=swap');
+
+body {
+    background-color: black;
+}
+
+.bemvindo {
+    width: 300px;
+}
+
+/* Classe para configuração de fonte */
+
+.fonte {
+    color: lightblue;
+    font-size: 32px;
+    font-family: Oswald;
+}
+
+.fonte1 {
+    color: aqua;
+    font-size: larger;
+    font-family: Edu Australia VIC WA NT Hand;
+
+}
+
+.rei {
+    color: aquamarine;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.mega {
+    color: azure;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.coletor {
+    color: chartreuse;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
